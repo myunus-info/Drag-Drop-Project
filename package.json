@@ -1,0 +1,12 @@
+{
+  "name": "ProjectManager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_ENV=development&& lite-server dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
